@@ -2,3 +2,4 @@
 FixerIO_Example.iml
 .idea
 target
+resources/app.properties
