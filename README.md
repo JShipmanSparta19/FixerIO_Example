@@ -1,4 +1,4 @@
-#FixerIO Example
+# FixerIO Example
 
 **This project requires a fixer.io key to operate.**
 
